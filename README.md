@@ -1,4 +1,4 @@
-## Hello!👋 I'm Sharon Serbellon Barralaga
+## Hello!👋 I'm Sharon Serbellon Barralaga  
 **Computer Science** major interested in **financial technologies and data-driven systems**.
 ---
 
