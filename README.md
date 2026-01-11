@@ -27,4 +27,3 @@
 ### 😄 About Me
 - Pronouns: **She/Her**
 - Fun fact: I love travelling and have visited **9 countries**.
--->
