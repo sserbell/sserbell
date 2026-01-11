@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hello!👋 I'm Sharon Serbellon Barralaga
+**Computer Science** major interested in **financial technologies and data-driven systems**.
+---
 
-<!--
-**sserbell/sserbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Currently Working On
+- Expanding my **fintech project portfolio**
+- Building a **stock data backtester** to test trading strategies
+- Deepening my understanding of **market data and performance analysis**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠 Tech Stack:
+- **Languages:** Python, Java 
+- **Data & Analysis:** Pandas
+- **Tools:** GitHub
+- **APIs:** Yahoo Finance (yfinance)
+
+---
+
+### 📈 Interests
+- Fintech & trading systems
+- Data analysis
+- Algorithmic trading (learning stage)
+
+---
+
+### 😄 About Me
+- Pronouns: **She/Her**
+- Fun fact: I love travelling and have visited **9 countries**.
 -->
