@@ -1,16 +1,16 @@
 ## Hello!👋 I'm Sharon Serbellon Barralaga  
-**Computer Science** major interested in **financial technologies and data-driven systems**.
+**Computer Science** major interested in **software technologies and data-driven systems**.
 ---
 
 ### 🔭 Currently Working On
-- Expanding my **fintech project portfolio**
-- Building a **stock data backtester** to test trading strategies
-- Deepening my understanding of **market data and performance analysis**  
+- Expanding my **project portfolio**
+- Building a **customized heap functions with C** to test trading strategies
+- Deepening my understanding of **front-end technologies**  
 
 ---
 
 ### 🛠 Tech Stack:
-- **Languages:** Python, Java 
+- **Languages:** Python, Java, C, HTML, CSS, SQL 
 - **Data & Analysis:** Pandas
 - **Tools:** GitHub
 - **APIs:** Yahoo Finance (yfinance)
@@ -21,6 +21,7 @@
 - Fintech & trading systems
 - Data analysis
 - Algorithmic trading (learning stage)
+- Software development
 
 ---
 
