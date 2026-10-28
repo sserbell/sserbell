@@ -4,7 +4,7 @@
 
 ### 🔭 Currently Working On
 - Expanding my **project portfolio**
-- Building a **customized heap functions with C** to test trading strategies
+- Building a **data-analysis web application with focus on PHP**
 - Deepening my understanding of **front-end technologies**  
 
 ---
